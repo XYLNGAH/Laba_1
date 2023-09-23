@@ -1,0 +1,38 @@
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.Form1.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.Form2.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.Form3.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.Form4.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.csproj.GenerateResource.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1\bin\Debug\net7.0-windows\Laba_1.exe
+C:\Users\misha\OneDrive\Desktop\Laba_1\bin\Debug\net7.0-windows\Laba_1.deps.json
+C:\Users\misha\OneDrive\Desktop\Laba_1\bin\Debug\net7.0-windows\Laba_1.runtimeconfig.json
+C:\Users\misha\OneDrive\Desktop\Laba_1\bin\Debug\net7.0-windows\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1\bin\Debug\net7.0-windows\Laba_1.pdb
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\refint\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.pdb
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\Laba_1.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1\obj\Debug\net7.0-windows\ref\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\bin\Debug\net7.0-windows\Laba_1.exe
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\bin\Debug\net7.0-windows\Laba_1.deps.json
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\bin\Debug\net7.0-windows\Laba_1.runtimeconfig.json
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\bin\Debug\net7.0-windows\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\bin\Debug\net7.0-windows\Laba_1.pdb
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.Form1.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.Form2.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.Form3.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.Form4.resources
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.csproj.GenerateResource.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\refint\Laba_1.dll
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.pdb
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\Laba_1.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Desktop\Laba_1 готовая\obj\Debug\net7.0-windows\ref\Laba_1.dll
